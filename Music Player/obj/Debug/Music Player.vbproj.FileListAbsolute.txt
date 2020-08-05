@@ -1,0 +1,17 @@
+C:\Users\maasb\Desktop\Mp3 Player XD\Build\Music Player\Music Player\obj\Debug\Music Player.vbprojAssemblyReference.cache
+C:\Users\maasb\Desktop\Mp3 Player XD\Build\Music Player\Music Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\maasb\Desktop\Mp3 Player XD\Build\Music Player\Music Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\maasb\Desktop\Mp3 Player XD\Build\Music Player\Music Player\obj\Debug\Music Player.vbproj.ResolveComReference.cache
+C:\Users\maasb\Desktop\Mp3 Player XD\Build\Music Player\Music Player\obj\Debug\Music_Player.Form1.resources
+C:\Users\maasb\Desktop\Mp3 Player XD\Build\Music Player\Music Player\obj\Debug\Music_Player.Resources.resources
+C:\Users\maasb\Desktop\Mp3 Player XD\Build\Music Player\Music Player\obj\Debug\Music Player.vbproj.GenerateResource.cache
+C:\Users\maasb\Desktop\Mp3 Player XD\Build\Music Player\Music Player\obj\Debug\Music Player.vbproj.CoreCompileInputs.cache
+C:\Users\maasb\Desktop\Mp3 Player XD\Build\Music Player\Music Player\bin\Debug\Music Player.exe.config
+C:\Users\maasb\Desktop\Mp3 Player XD\Build\Music Player\Music Player\bin\Debug\Music Player.exe
+C:\Users\maasb\Desktop\Mp3 Player XD\Build\Music Player\Music Player\bin\Debug\Music Player.pdb
+C:\Users\maasb\Desktop\Mp3 Player XD\Build\Music Player\Music Player\bin\Debug\Music Player.xml
+C:\Users\maasb\Desktop\Mp3 Player XD\Build\Music Player\Music Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\maasb\Desktop\Mp3 Player XD\Build\Music Player\Music Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\maasb\Desktop\Mp3 Player XD\Build\Music Player\Music Player\obj\Debug\Music Player.exe
+C:\Users\maasb\Desktop\Mp3 Player XD\Build\Music Player\Music Player\obj\Debug\Music Player.xml
+C:\Users\maasb\Desktop\Mp3 Player XD\Build\Music Player\Music Player\obj\Debug\Music Player.pdb
